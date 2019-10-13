@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seechiesah.ejector.app/sitemap.xml
